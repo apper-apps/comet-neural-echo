@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "type": "regular",
+    "title": "The Paradox of Choice in Digital Spaces",
+    "content": "In our interconnected world, we face thousands of micro-decisions daily. Each click, swipe, and scroll reveals patterns in our cognitive processing. What drives your digital choices?",
+    "author": "Dr. Sarah Chen",
+    "timestamp": "2 hours ago",
+    "likes": 42,
+    "comments": 7,
+    "imageUrl": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 2,
+    "type": "regular",
+    "title": "Behavioral Triggers in Social Media",
+    "content": "The psychology behind engagement algorithms reveals fascinating insights into human behavior. We respond to patterns, colors, and timing in predictable ways.",
+    "author": "Marcus Rodriguez",
+    "timestamp": "4 hours ago",
+    "likes": 38,
+    "comments": 12,
+    "imageUrl": "https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 3,
+    "type": "regular",
+    "title": "The Science of Attention",
+    "content": "In a world of infinite scroll, our attention has become the most valuable currency. Understanding how we allocate focus reveals deep truths about human nature.",
+    "author": "Dr. Emily Watson",
+    "timestamp": "6 hours ago",
+    "likes": 56,
+    "comments": 9,
+    "imageUrl": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 4,
+    "type": "regular",
+    "title": "Digital Body Language",
+    "content": "Your clicks have rhythm, your scrolls have tempo. Digital interactions create unique behavioral fingerprints that reveal personality traits.",
+    "author": "Alex Thompson",
+    "timestamp": "8 hours ago",
+    "likes": 33,
+    "comments": 5,
+    "imageUrl": "https://images.pexels.com/photos/3184293/pexels-photo-3184293.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 5,
+    "type": "regular",
+    "title": "The Neuroscience of Decision Making",
+    "content": "Every decision activates specific neural pathways. By studying digital choices, we can map the geography of the mind and predict future behaviors.",
+    "author": "Dr. James Liu",
+    "timestamp": "10 hours ago",
+    "likes": 67,
+    "comments": 15,
+    "imageUrl": "https://images.pexels.com/photos/3184294/pexels-photo-3184294.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 6,
+    "type": "regular",
+    "title": "Collective Intelligence Patterns",
+    "content": "When individual behaviors aggregate, emergent patterns appear. These collective signals reveal societal trends and group psychology dynamics.",
+    "author": "Dr. Maria Santos",
+    "timestamp": "12 hours ago",
+    "likes": 41,
+    "comments": 8,
+    "imageUrl": "https://images.pexels.com/photos/3184295/pexels-photo-3184295.jpeg?auto=compress&cs=tinysrgb&w=400"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 101,
+    "type": "sponsored",
+    "variant": "sp1",
+    "title": "Unlock Your Mind's Hidden Patterns",
+    "content": "Advanced behavioral analysis reveals insights you never knew existed. Join thousands discovering their psychological fingerprint.",
+    "author": "Neural Echo Research",
+    "timestamp": "Sponsored",
+    "likes": 234,
+    "comments": 45,
+    "insight": "This content performs 340% better with users aged 25-34",
+    "imageUrl": "https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 102,
+    "type": "sponsored",
+    "variant": "sp2",
+    "title": "Discover What Your Clicks Reveal",
+    "content": "Every interaction tells a story. Our AI analyzes your digital behavior to create personalized psychological profiles.",
+    "author": "Neural Echo Research",
+    "timestamp": "Sponsored",
+    "likes": 189,
+    "comments": 32,
+    "insight": "Higher engagement with mystical framing increases conversion by 78%",
+    "imageUrl": "https://images.pexels.com/photos/3184297/pexels-photo-3184297.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 103,
+    "type": "sponsored",
+    "variant": "sp3",
+    "title": "Your Digital DNA Awaits",
+    "content": "Behavioral genetics meet digital psychology. Understand the code that drives your online decisions and social interactions.",
+    "author": "Neural Echo Research",
+    "timestamp": "Sponsored",
+    "likes": 156,
+    "comments": 28,
+    "insight": "Scientific terminology reduces skepticism by 42% in target demographic",
+    "imageUrl": "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg?auto=compress&cs=tinysrgb&w=400"
+  }
+]

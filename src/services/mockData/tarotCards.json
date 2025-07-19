@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "name": "The Observer",
+    "emoji": "👁️",
+    "meaning": "Deep insights and hidden knowledge await. You see patterns others miss."
+  },
+  {
+    "Id": 2,
+    "name": "The Catalyst",
+    "emoji": "⚡",
+    "meaning": "Change is coming. Your actions will trigger significant transformations."
+  },
+  {
+    "Id": 3,
+    "name": "The Networked",
+    "emoji": "🌐",
+    "meaning": "Connections form the web of your destiny. Relationships are key."
+  },
+  {
+    "Id": 4,
+    "name": "The Digital",
+    "emoji": "💻",
+    "meaning": "Technology and data guide your path. Embrace the digital realm."
+  },
+  {
+    "Id": 5,
+    "name": "The Analyzer",
+    "emoji": "🔬",
+    "meaning": "Break down complex problems. Your analytical mind is your strength."
+  },
+  {
+    "Id": 6,
+    "name": "The Intuitive",
+    "emoji": "🌙",
+    "meaning": "Trust your instincts. Logic and intuition must work together."
+  },
+  {
+    "Id": 7,
+    "name": "The Creator",
+    "emoji": "🎨",
+    "meaning": "Innovation flows through you. Create something new and meaningful."
+  },
+  {
+    "Id": 8,
+    "name": "The Collective",
+    "emoji": "👥",
+    "meaning": "Wisdom emerges from groups. Seek collaboration and shared insight."
+  },
+  {
+    "Id": 9,
+    "name": "The Algorithm",
+    "emoji": "🤖",
+    "meaning": "Patterns and systems surround you. Find the code that governs your situation."
+  },
+  {
+    "Id": 10,
+    "name": "The Infinite",
+    "emoji": "♾️",
+    "meaning": "Unlimited potential awaits. Your possibilities are boundless."
+  },
+  {
+    "Id": 11,
+    "name": "The Mirror",
+    "emoji": "🪞",
+    "meaning": "Self-reflection reveals truth. Look within to understand your path."
+  },
+  {
+    "Id": 12,
+    "name": "The Signal",
+    "emoji": "📡",
+    "meaning": "Important messages are coming. Pay attention to subtle communications."
+  }
+]

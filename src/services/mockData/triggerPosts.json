@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 201,
+    "title": "FOMO Marketing Psychology",
+    "content": "Limited time offers create urgency by activating loss aversion. The fear of missing out triggers immediate action responses in 73% of users.",
+    "author": "Closer Marketing Team",
+    "timestamp": "1 hour ago",
+    "likes": 89,
+    "comments": 23,
+    "imageUrl": "https://images.pexels.com/photos/3184299/pexels-photo-3184299.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 202,
+    "title": "Social Proof Amplification",
+    "content": "Testimonials with specific numbers (\"increased sales by 247%\") generate 34% more trust than generic praise. Precise metrics create credibility.",
+    "author": "Closer Marketing Team",
+    "timestamp": "1 hour ago",
+    "likes": 112,
+    "comments": 18,
+    "imageUrl": "https://images.pexels.com/photos/3184300/pexels-photo-3184300.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 203,
+    "title": "Authority Bias Triggers",
+    "content": "Expert endorsements combined with academic credentials increase conversion rates by 156%. The white coat effect extends to digital spaces.",
+    "author": "Closer Marketing Team",
+    "timestamp": "1 hour ago",
+    "likes": 76,
+    "comments": 14,
+    "imageUrl": "https://images.pexels.com/photos/3184301/pexels-photo-3184301.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 204,
+    "title": "Reciprocity Mechanisms",
+    "content": "Free value offerings create psychological debt. Users feel compelled to reciprocate, leading to 89% higher engagement with follow-up offers.",
+    "author": "Closer Marketing Team",
+    "timestamp": "1 hour ago",
+    "likes": 94,
+    "comments": 21,
+    "imageUrl": "https://images.pexels.com/photos/3184302/pexels-photo-3184302.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 205,
+    "title": "Commitment Consistency",
+    "content": "Small initial commitments lead to larger ones. Starting with micro-actions increases major purchase likelihood by 204%.",
+    "author": "Closer Marketing Team",
+    "timestamp": "1 hour ago",
+    "likes": 67,
+    "comments": 11,
+    "imageUrl": "https://images.pexels.com/photos/3184303/pexels-photo-3184303.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "Id": 206,
+    "title": "Scarcity Psychology",
+    "content": "Artificial scarcity creates value perception. \"Only 3 spots left\" messaging increases immediate action by 167% even when unlimited.",
+    "author": "Closer Marketing Team",
+    "timestamp": "1 hour ago",
+    "likes": 103,
+    "comments": 19,
+    "imageUrl": "https://images.pexels.com/photos/3184304/pexels-photo-3184304.jpeg?auto=compress&cs=tinysrgb&w=400"
+  }
+]
