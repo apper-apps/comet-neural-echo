@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 
 const PhysicsFooter = () => {
   const canvasRef = useRef(null);
@@ -109,12 +109,12 @@ const PhysicsFooter = () => {
       ctx.fillStyle = "#FFFFFF";
       ctx.font = "24px Monaco, monospace";
       ctx.textAlign = "center";
-      ctx.fillText("✨ Drag the shapes. Observe. Interact. ✨", canvas.width / 2, 40);
+ctx.fillText("✨ Drag the shapes. Observe. Interact. ✨", canvas.width / 2, 40);
       
       ctx.font = "16px Monaco, monospace";
       ctx.fillText("Your physics interactions are being analyzed for behavioral patterns", canvas.width / 2, 70);
 
-      animationRef.current = requestAnimationFrame(animate);
+animationRef.current = requestAnimationFrame(animate);
     };
 
     animate();
