@@ -19,7 +19,7 @@ const LoginPage = ({ onLogin }) => {
     return () => document.removeEventListener("mousemove", handleMouseMove);
   }, []);
 
-  useEffect(() => {
+useEffect(() => {
     if (!isButtonCaught) {
       const distance = Math.sqrt(
         Math.pow(mousePos.x - (buttonPos.x + 100), 2) + 
@@ -37,7 +37,7 @@ const LoginPage = ({ onLogin }) => {
         setButtonPos({ x: newX, y: newY });
       }
     }
-  }, [mousePos, buttonPos, isButtonCaught]);
+  }, [mousePos, isButtonCaught]);
 
   useEffect(() => {
     if (isButtonCaught && countdown > 0) {
